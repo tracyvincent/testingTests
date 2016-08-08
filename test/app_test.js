@@ -10,8 +10,6 @@ describe('testing the add one function', function(){
 
     expect(result).to.equal(43);
   });
-
   // it(...);
-
   // describe(...)
 });
